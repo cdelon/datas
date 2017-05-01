@@ -1,0 +1,2502 @@
+[
+  {
+    "code": "E100",
+    "libelle": "Curcumines, Jaune de curcumine",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E101",
+    "libelle": "Riboflavines, Riboflavine 5'-phosphate, Vitamine B2",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E102",
+    "libelle": "Tartrazine",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E104",
+    "libelle": "Jaune de quinoléine, Jaune de quinoline",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E105",
+    "libelle": "Jaune solide",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E107",
+    "libelle": "Jaune 2G",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E110",
+    "libelle": "Jaune soleil FCF, Jaune orangé S",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E111",
+    "libelle": "Orange GGN, Alpha-naphthol orange",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E120",
+    "libelle": "Cochenille, Acide Carminique, Carmins",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E121",
+    "libelle": "Rouge citrus no. 2 (ex- Orseille, Orcéine)",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E122",
+    "libelle": "Azorubine, Carmoisine",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E123",
+    "libelle": "Amarante, Amaranthe",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E124",
+    "libelle": "Ponceau 4R, Rouge cochenille A",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E125",
+    "libelle": "Ponceau SX",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E126",
+    "libelle": "Ponceau 6R",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E127",
+    "libelle": "Erythrosine",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E128",
+    "libelle": "Rouge 2G, Azogéranine",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E129",
+    "libelle": "Rouge allura AC",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E130",
+    "libelle": "Bleu anthraquinonique, Bleu solanthrène RS",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E131",
+    "libelle": "Bleu patenté V",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E132",
+    "libelle": "Indigotine, Carmin(e) d'indigo",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E133",
+    "libelle": "Bleu brillant FCF",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E140",
+    "libelle": "Chlorophylles, Chlorophyllines",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E141",
+    "libelle": "Complexes cuivriques des chlorophilles et des chlorophyllines",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E142",
+    "libelle": "Vert S, Vert brillant BS, Vert lissamine",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E143",
+    "libelle": "Vert solide FCF",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E150a",
+    "libelle": "Caramel I - nature (caramel caustique)",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E150b",
+    "libelle": "Caramel II - procédé au sulfite caustique",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E150c",
+    "libelle": "Caramel III - procédé à l'ammoniaque",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E150d",
+    "libelle": "Caramel IV - procédé à l'ammoniaque sulfite",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E151",
+    "libelle": "Noir brillant BN, Noir PN, Naphtol black",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E152",
+    "libelle": "Noir de carbone (hydrocarbure, ex-Noir 7984)",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E153",
+    "libelle": "Charbon végétal, Noir végétal",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E154",
+    "libelle": "Brun FK",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E155",
+    "libelle": "Brun HT, Brun chocolat HT",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E160a",
+    "libelle": "Carotènes (bêta-), Provitamine A",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E160b",
+    "libelle": "Rocou, Annatto, Bixine, Norbixine",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E160c",
+    "libelle": "Extrait de paprika, Capsanthéine, Capsorubine",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E160d",
+    "libelle": "Lycopènes",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E160e",
+    "libelle": "Bêta-apo-8'-caroténal (C30), Caroténal (bêta-apo-8'-)",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E160f",
+    "libelle": "Ester éthylique de l'acide bêta-apo-8'-caroténoïque (C30)",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E161",
+    "libelle": "Xantophylles",
+    "danger": ""
+  },
+  {
+    "code": "E161a",
+    "libelle": "Flavoxanthine (xanthophylles)",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E161b",
+    "libelle": "Lutéine (xanthophylles)",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E161c",
+    "libelle": "Cryptoxanthine (xanthophylles)",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E161d",
+    "libelle": "Rubixanthine (xanthophylles)",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E161e",
+    "libelle": "Violaxanthine (xanthophylles)",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E161f",
+    "libelle": "Rhodoxanthine (xanthophylles)",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E161g",
+    "libelle": "Canthaxanthine (xanthophylles)",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E161h",
+    "libelle": "Zeaxanthine (xantophylles)",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E161i",
+    "libelle": "Citranaxanthine (xantophylles)",
+    "danger": ""
+  },
+  {
+    "code": "E161j",
+    "libelle": "Astaxanthine (xantophylles)",
+    "danger": ""
+  },
+  {
+    "code": "E162",
+    "libelle": "Rouge de betterave, Bétanine",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E163",
+    "libelle": "Anthocyanes, Anthocyanines",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E164",
+    "libelle": "Jaune de gardénia ou Safran ; Crocine, Crocétine",
+    "danger": ""
+  },
+  {
+    "code": "E165",
+    "libelle": "Bleu de gardénia",
+    "danger": ""
+  },
+  {
+    "code": "E166",
+    "libelle": "Bois de santal",
+    "danger": ""
+  },
+  {
+    "code": "E170",
+    "libelle": "Carbonate de calcium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E171",
+    "libelle": "Dioxyde de titane, Bioxyde de titane",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E172",
+    "libelle": "Oxydes de fer, Hydroxydes de fer",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E173",
+    "libelle": "Aluminium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E174",
+    "libelle": "Argent, Argentum",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E175",
+    "libelle": "Or, Aurum",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E180",
+    "libelle": "Litholrubine BK, Carmin 6B, Pigment rubis",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E181",
+    "libelle": "Tanins, Tannins, \"Acide tannique",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E182",
+    "libelle": "Orseille, Orcéine",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E200",
+    "libelle": "Acide sorbique",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E201",
+    "libelle": "Sorbate de sodium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E202",
+    "libelle": "Sorbate de potassium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E203",
+    "libelle": "Sorbate de calcium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E209",
+    "libelle": "Heptyl parabène, Hydroxybenzoate d'hepthyle (para-)",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E210",
+    "libelle": "Acide benzoïque",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E211",
+    "libelle": "Benzoate de sodium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E212",
+    "libelle": "Benzoate de potassium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E213",
+    "libelle": "Benzoate de calcium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E214",
+    "libelle": "Ethylparabène, Hydroxybenzoate d'éthyle (para-)",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E215",
+    "libelle": "Ethylparabène sodique, Hydroxybenzoate d'éthyle sodique (para-)",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E216",
+    "libelle": "Propylparabène, Hydroxybenzoate de propyle (para-)",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E217",
+    "libelle": "Propylparabène sodique, Hydroxybenzoate de propyle sodique (para-)",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E218",
+    "libelle": "Méthylparabène, Hydroxybenzoate de méthyle (para-)",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E219",
+    "libelle": "Méthylparabène sodique, Hydroxybenzoate de méthyle sodique (para-)",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E220",
+    "libelle": "Dioxyde de soufre, Anhydride sulfureux",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E221",
+    "libelle": "Sulfite de sodium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E222",
+    "libelle": "Bisulfite de sodium, Sulfite acide de sodium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E223",
+    "libelle": "Métabisulfite de sodium, Pyrosulfite de sodium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E224",
+    "libelle": "Métabisulfite de potassium, Pyrosulfite de potassium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E225",
+    "libelle": "Sulfite de potassium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E226",
+    "libelle": "Sulfite de calcium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E227",
+    "libelle": "Bisulfite de calcium, Sulfite acide de calcium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E228",
+    "libelle": "Bisulfite de potassium, Sulfite acide de potassium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E230",
+    "libelle": "Diphényle, Biphényle",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E231",
+    "libelle": "Orthophénylphénol",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E232",
+    "libelle": "Orthophénylphénol de sodium, Orthophénylphénate de sodium",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E233",
+    "libelle": "Thiabendazole, Benzimidazole",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E234",
+    "libelle": "Nisine",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E235",
+    "libelle": "Natamycine, Pimaricine",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E236",
+    "libelle": "Acide formique",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E237",
+    "libelle": "Formiate de sodium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E238",
+    "libelle": "Formiate de calcium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E239",
+    "libelle": "Héxaméthylène tétramine",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E240",
+    "libelle": "Formaldéhyde, Aldéhyde formique, Formol",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E241",
+    "libelle": "Gomme gaïac",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E242",
+    "libelle": "Dicarbonate de diméthyle, DMDC",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E249",
+    "libelle": "Nitrite de potassium",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E250",
+    "libelle": "Nitrite de sodium",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E251",
+    "libelle": "Nitrate de sodium, Salpêtre du Chili",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E252",
+    "libelle": "Nitrate de potassium, Salpêtre",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E260",
+    "libelle": "Acide acétique (glacial), Acide éthanoïque",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E261",
+    "libelle": "Acétate de potassium, Ethanoate de potassium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E262",
+    "libelle": "Acétate de sodium, Ethanoate de sodium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E263",
+    "libelle": "Acétate de calcium, Ethanoate de calcium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E264",
+    "libelle": "Acétate d'ammonium, Ethanoate d'ammonium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E265",
+    "libelle": "Acide déhydroacétique, Acide déhydracétique",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E266",
+    "libelle": "Déhydroacétate de sodium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E270",
+    "libelle": "Acide lactique (L-, D- et DL-)",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E280",
+    "libelle": "Acide propionique",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E281",
+    "libelle": "Propionate de sodium, Propanoate de sodium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E282",
+    "libelle": "Propionate de calcium, Propanoate de calcium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E283",
+    "libelle": "Propionate de potassium, Propanoate de potassium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E284",
+    "libelle": "Acide borique",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E285",
+    "libelle": "Tétraborate de sodium (Borax)",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E290",
+    "libelle": "Dioxyde de carbone, Anhydride carbonique, CO2",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E296",
+    "libelle": "Acide malique (DL- ou L-)",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E297",
+    "libelle": "Acide fumarique",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E300",
+    "libelle": "Acide ascorbique (L-), Vitamine C",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E301",
+    "libelle": "Ascorbate de sodium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E302",
+    "libelle": "Ascorbate de calcium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E303",
+    "libelle": "Ascorbate de potassium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E304",
+    "libelle": "Palmitate d'ascorbyle (i), Stéarate d'ascorbyle (ii)",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E306",
+    "libelle": "Tocophérols, Extraits riches en vitamine E",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E307",
+    "libelle": "Alpha-tocophérol (DL-, synthétique)",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E308",
+    "libelle": "Gamma-tocophérol (DL-, synthétique)",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E309",
+    "libelle": "Delta-tocophérol (DL-, synthétique)",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E310",
+    "libelle": "Gallate de propyle",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E311",
+    "libelle": "Gallate d'octyle",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E312",
+    "libelle": "Gallate de dodécyle",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E313",
+    "libelle": "Gallate d'éthyle",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E314",
+    "libelle": "Résine de gaïac",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E315",
+    "libelle": "Acide érythorbique, Acide isoascorbique",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E316",
+    "libelle": "Erythorbate de sodium, Isoascorbate de sodium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E317",
+    "libelle": "Erythorbate de potassium, Isoascorbate de potassium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E318",
+    "libelle": "Erythorbate de calcium, Isoascorbate de calcium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E319",
+    "libelle": "Butylhydroquinone tertiaire, BHQT",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E320",
+    "libelle": "Butylhydroxyanisol, Hydroxyanisol butylé, BHA",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E321",
+    "libelle": "Butylhydroxytoluène, Hydroxytoluène butylé, BHT",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E322",
+    "libelle": "Lécithines",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E323",
+    "libelle": "Anoxomère",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E324",
+    "libelle": "Ethoxyquine",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E325",
+    "libelle": "Lactate de sodium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E326",
+    "libelle": "Lactate de potassium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E327",
+    "libelle": "Lactate de calcium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E328",
+    "libelle": "Lactate d'ammonium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E329",
+    "libelle": "Lactate de magnésium (DL-)",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E330",
+    "libelle": "Acide citrique",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E331",
+    "libelle": "Citrate de sodium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E332",
+    "libelle": "Citrate de potassium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E333",
+    "libelle": "Citrate de calcium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E334",
+    "libelle": "Acide L(+)-tartrique, Acide L(+)-tartarique",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E335",
+    "libelle": "Tartrate de sodium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E336",
+    "libelle": "Tartrate de potassium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E337",
+    "libelle": "Tartrate double de sodium et de potassium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E338",
+    "libelle": "Acide phosphorique, Acide orthophosphorique",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E339",
+    "libelle": "Phosphates de sodium, Orthophosphates de sodium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E340",
+    "libelle": "Phosphates de potassium, Orthophosphates de potassium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E341",
+    "libelle": "Phosphates de calcium, Orthophosphates de calcium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E342",
+    "libelle": "Phosphates d'ammonium, Monophosphates d'ammonium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E343",
+    "libelle": "Phosphates de magnésium, Monophosphates de magnésium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E344",
+    "libelle": "Citrate de lécithine",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E345",
+    "libelle": "Citrate de magnésium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E349",
+    "libelle": "Malate d'ammonium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E350",
+    "libelle": "Malate de sodium (DL-)",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E351",
+    "libelle": "Malate de potassium (DL-)",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E352",
+    "libelle": "Malate de calcium (DL-)",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E353",
+    "libelle": "Acide métatartrique, Acide métatartarique",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E354",
+    "libelle": "Tartrate de calcium (L-, DL-)",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E355",
+    "libelle": "Acide adipique",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E356",
+    "libelle": "Adipates de sodium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E357",
+    "libelle": "Adipates de potassium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E359",
+    "libelle": "Adipates d'ammonium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E363",
+    "libelle": "Acide succinique",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E364",
+    "libelle": "Succinates de sodium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E365",
+    "libelle": "Fumarates de sodium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E366",
+    "libelle": "Fumarates de potassium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E367",
+    "libelle": "Fumarates de calcium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E368",
+    "libelle": "Fumarates d'ammonium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E370",
+    "libelle": "Heptonolactone (1,4-)",
+    "danger": ""
+  },
+  {
+    "code": "E375",
+    "libelle": "Niacine, Acide nicotinique",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E380",
+    "libelle": "Citrate de triammonium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E381",
+    "libelle": "Citrate d'ammonium ferrique",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E383",
+    "libelle": "Glycérophosphate de calcium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E384",
+    "libelle": "Citrates d'isopropyle",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E385",
+    "libelle": "EDTA calcio-disodique",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E386",
+    "libelle": "EDTA disodique",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E387",
+    "libelle": "Oxystéarine",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E388",
+    "libelle": "Acide thiodipropionique, Acide thiodipropanoïque, TDPA",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E389",
+    "libelle": "Thiodipropionate de dilauryle",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E390",
+    "libelle": "Thiodipropionate de distéaryle",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E391",
+    "libelle": "Acide phytique",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E392",
+    "libelle": "Extrait de romarin",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E399",
+    "libelle": "Lactobionate de calcium",
+    "danger": ""
+  },
+  {
+    "code": "E400",
+    "libelle": "Acide alginique",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E401",
+    "libelle": "Alginate de sodium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E402",
+    "libelle": "Alginate de potassium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E403",
+    "libelle": "Alginate d'ammonium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E404",
+    "libelle": "Alginate de calcium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E405",
+    "libelle": "Alginate de propylène glycol, Alginate de propane-1,2 diol",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E406",
+    "libelle": "Agar-agar, Layor Carang, Isinglass du Japon",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E407",
+    "libelle": "Carraghénane, Carraghénate, Furcellaran, Mousse d'Irlande",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E407a",
+    "libelle": "Carraghénane semi-raffinée, Algue Eucheuma transformée",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E408",
+    "libelle": "Glycane de levure de boulanger",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E409",
+    "libelle": "Arabinogalactane",
+    "danger": ""
+  },
+  {
+    "code": "E410",
+    "libelle": "Gomme de caroube, Farine de graine de caroube",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E411",
+    "libelle": "Gomme d'avoine",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E412",
+    "libelle": "Gomme de guar",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E413",
+    "libelle": "Gomme adragante, Gomme de dragon, Tragacanthe",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E414",
+    "libelle": "Gomme arabique, Gomme d'acacia",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E415",
+    "libelle": "Gomme xanthane",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E416",
+    "libelle": "Gomme karaya, Gomme sterculia",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E417",
+    "libelle": "Gomme tara",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E418",
+    "libelle": "Gomme gellane",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E419",
+    "libelle": "Gomme ghatti",
+    "danger": ""
+  },
+  {
+    "code": "E420",
+    "libelle": "Sorbitol, Sirop de sorbitol",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E421",
+    "libelle": "Mannitol",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E422",
+    "libelle": "Glycérol, Glycérine",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E424",
+    "libelle": "Curdlan",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E425",
+    "libelle": "Gomme de Konjac, Glucomannane de Konjac, Farine de Konjac",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E426",
+    "libelle": "Hémicellulose de soja",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E427",
+    "libelle": "Gomme cassia",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E428",
+    "libelle": "Gélatine",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E429",
+    "libelle": "Peptones",
+    "danger": ""
+  },
+  {
+    "code": "E430",
+    "libelle": "Stéarate de polyoxyéthylène 8",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E431",
+    "libelle": "Stéarate de polyoxyéthylène 40",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E432",
+    "libelle": "Polysorbate 20, Tween 20",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E433",
+    "libelle": "Polysorbate 80, Tween 80",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E434",
+    "libelle": "Polysorbate 40, Tween 40",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E435",
+    "libelle": "Polysorbate 60, Tween 60",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E436",
+    "libelle": "Polysorbate 65, Tween 65",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E440i",
+    "libelle": "Pectine",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E440ii",
+    "libelle": "Pectine amidée",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E441",
+    "libelle": "Huile de colza superglycérinée hydrogénée",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E442",
+    "libelle": "Phosphatides d'ammonium, Sels d'ammonium de l'acide phosphatidique",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E443",
+    "libelle": "Huile végétale bromée",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E444",
+    "libelle": "Acétate isobutyrate de saccharose, SAIB",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E445",
+    "libelle": "Ester glycérique de résines de bois",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E446",
+    "libelle": "Succistéarine",
+    "danger": ""
+  },
+  {
+    "code": "E450",
+    "libelle": "Diphosphates, Pyrophosphates",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E451",
+    "libelle": "Triphosphates",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E452",
+    "libelle": "Polyphosphates",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E457",
+    "libelle": "Cyclodextrine (Alpha-), AlphaCD, ?-Cyclodextrine",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E458",
+    "libelle": "Cyclodextrine (Gamma-), GammaCD, ?-Cyclodextrine",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E459",
+    "libelle": "Cyclodextrine (Bêta-), BêtaCD, ?-Cyclodextrine",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E460",
+    "libelle": "Celluloses",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E461",
+    "libelle": "Methyl cellulose",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E462",
+    "libelle": "Ethyl cellulose",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E463",
+    "libelle": "Hydroxypropyl cellulose",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E464",
+    "libelle": "Hydroxypropyl méthyl cellulose",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E465",
+    "libelle": "Méthyléthyl cellulose, MEC",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E466",
+    "libelle": "Carboxyméthyl cellulose de sodium, Gomme de cellulose",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E467",
+    "libelle": "Ethyl hydroxyéthyl cellulose",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E468",
+    "libelle": "Carboximéthyl cellulose sodique réticulée, Gomme cellulosique réticulée",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E469",
+    "libelle": "Carboximéthyl cellulose sodique hydrolysée par voie enzymatique, ...",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E470",
+    "libelle": "Sels d'acides gras (ayant pour base Al, NH4, Ca, Mg, K, Na)",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E470a",
+    "libelle": "Sels de sodium, de potassium et de calcium d'acides gras",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E470b",
+    "libelle": "Sels de magnésium d'acides gras",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E471",
+    "libelle": "Mono et diglycérides d'acides gras",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E472a",
+    "libelle": "Esters acétiques des mono- et diglycérides d'acides gras",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E472b",
+    "libelle": "Esters lactiques des mono- et diglycérides d'acides gras",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E472c",
+    "libelle": "Esters citriques des mono- et diglycérides d'acides gras",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E472d",
+    "libelle": "Esters tartriques des mono- et diglycérides d'acides gras",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E472e",
+    "libelle": "Esters mono- et diacétyltartriques des mono- et diglycérides d'acides gras",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E472f",
+    "libelle": "Esters mixtes acétiq. et tartriq. des mono- et diglycérides d'acides gras",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E472g",
+    "libelle": "Monoglycérides succinyles",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E473",
+    "libelle": "Sucroesters d'acides gras, Esters de saccharose d'acides gras",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E473a",
+    "libelle": "Oligoesters de saccharose de type I et de type II",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E474",
+    "libelle": "Sucroglycérides, Saccharoglycérides",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E475",
+    "libelle": "Esters polyglycériques d'acides gras",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E476",
+    "libelle": "Polyricinoléate de polyglycérol",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E477",
+    "libelle": "Esters de propylène glycol d'acides gras",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E478",
+    "libelle": "Esters glycériques et propylène-glycoliques d'acides gras lactyles",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E479b",
+    "libelle": "Huile de soja oxydée par chauffage",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E480",
+    "libelle": "Sulfosuccinate dioctylique de sodium, Docusate de sodium, DSS",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E481",
+    "libelle": "Lactylates de sodium, Stéaroyl-2-lactylate de sodium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E482",
+    "libelle": "Lactylates de calcium, Stéaroyl-2-lactylate de calcium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E483",
+    "libelle": "Tartrate de stéaryle",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E484",
+    "libelle": "Citrate de stéaryle",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E485",
+    "libelle": "Stéaroyl fumarate de sodium",
+    "danger": ""
+  },
+  {
+    "code": "E486",
+    "libelle": "Stearoyl fumarate de calcium",
+    "danger": ""
+  },
+  {
+    "code": "E487",
+    "libelle": "Laurylsulfate de sodium, LSS",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E488",
+    "libelle": "Mono et diglycérides éthoxylés",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E489",
+    "libelle": "Ester de méthylglycoside d'huile de coco",
+    "danger": ""
+  },
+  {
+    "code": "E491",
+    "libelle": "Monostéarate de sorbitane",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E492",
+    "libelle": "Tristéarate de sorbitane",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E493",
+    "libelle": "Monolaurate de sorbitane",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E494",
+    "libelle": "Monooléate de sorbitane",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E495",
+    "libelle": "Monopalmitate de sorbitane",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E496",
+    "libelle": "Trioléate de sorbitane",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E500",
+    "libelle": "Carbonates de sodium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E501",
+    "libelle": "Carbonates de potassium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E502",
+    "libelle": "Carbonates",
+    "danger": ""
+  },
+  {
+    "code": "E503",
+    "libelle": "Carbonates d'ammonium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E504",
+    "libelle": "Carbonates de magnésium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E505",
+    "libelle": "Carbonates de fer, Carbonates ferreux",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E507",
+    "libelle": "Acide chlorhydrique",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E508",
+    "libelle": "Chlorure de potassium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E509",
+    "libelle": "Chlorure de calcium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E510",
+    "libelle": "Chlorure d'ammonium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E511",
+    "libelle": "Chlorure de magnésium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E512",
+    "libelle": "Chlorure d'étain, Chlorure stanneux",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E513",
+    "libelle": "Acide sulfurique",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E514",
+    "libelle": "Sulfate de sodium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E515",
+    "libelle": "Sulfate de potassium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E516",
+    "libelle": "Sulfate de calcium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E517",
+    "libelle": "Sulfate d'ammonium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E518",
+    "libelle": "Sulfate de magnésium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E519",
+    "libelle": "Sulfate de cuivre II, Sulfate cuprique",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E520",
+    "libelle": "Sulfate d'aluminium (anhydre)",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E521",
+    "libelle": "Sulfate d'aluminium sodique",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E522",
+    "libelle": "Sulfate d'aluminium potassique",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E523",
+    "libelle": "Sulfate d'aluminium ammonique, Sulfate d'aluminium ammonium",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E524",
+    "libelle": "Hydroxyde de sodium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E525",
+    "libelle": "Hydroxyde de potassium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E526",
+    "libelle": "Hydroxyde de calcium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E527",
+    "libelle": "Hydroxyde d'ammonium, Liqueur ammoniacale, Solution d'ammoniaque",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E528",
+    "libelle": "Hydroxyde de magnésium, Lait de magnésie",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E529",
+    "libelle": "Oxyde de calcium, Chaux, Chaux vive",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E530",
+    "libelle": "Oxyde de magnésium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E535",
+    "libelle": "Ferrocyanure de sodium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E536",
+    "libelle": "Ferrocyanure de potassium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E537",
+    "libelle": "Hexacyanomanganate de fer",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E538",
+    "libelle": "Ferrocyanure de calcium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E539",
+    "libelle": "Thiosulfate de sodium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E540",
+    "libelle": "Phosphate acide de calcium, Phosphate de calcium hydrogène",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E541",
+    "libelle": "Phosphate de sodium-aluminium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E542",
+    "libelle": "Phosphate d'os, Phosphate d'os comestible",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E544",
+    "libelle": "Polyphosphates de calcium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E545",
+    "libelle": "Polyphosphates d'ammonium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E546",
+    "libelle": "Diphosphates de magnésium, Pyrophosphates de magnésium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E550",
+    "libelle": "Silicate de sodium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E551",
+    "libelle": "Dioxyde de silicium (amorphe), Silice (amorphe)",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E552",
+    "libelle": "Silicate de calcium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E553",
+    "libelle": "Silicate de magnésium, Trisilicate de magnésium, Talc",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E554",
+    "libelle": "Silicate alumino-sodique, Silicoaluminate de sodium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E555",
+    "libelle": "Silicate alumino-potassique, Silocoaluminate de potassium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E556",
+    "libelle": "Silicate alumino-calcique, Silicoaluminate de calcium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E557",
+    "libelle": "Silicate de zinc",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E558",
+    "libelle": "Bentonite",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E559",
+    "libelle": "Silicate d'aluminium (kaolin léger ou lourd)",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E560",
+    "libelle": "Silicate de potassium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E570",
+    "libelle": "Acides gras",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E572",
+    "libelle": "Stéarate de magnésium, Magnésium stéarate",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E574",
+    "libelle": "Acide gluconique (D-)",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E575",
+    "libelle": "Glucono-delta-lactone",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E576",
+    "libelle": "Gluconate de sodium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E577",
+    "libelle": "Gluconate de potassium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E578",
+    "libelle": "Gluconate de calcium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E579",
+    "libelle": "Gluconate de fer, Gluconate ferreux",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E580",
+    "libelle": "Gluconate de magnésium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E585",
+    "libelle": "Lactate de fer, Lactate ferreux",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E586",
+    "libelle": "Hexylrésorcinol (4-)",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E620",
+    "libelle": "Acide glutamique",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E621",
+    "libelle": "Glutamate de sodium, Glutamate monosodique, GMS",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E622",
+    "libelle": "Glutamate de potassium, Glutamate monopotassique",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E623",
+    "libelle": "Glutamate de calcium, Diglutamate monocalcique",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E624",
+    "libelle": "Glutamate d'ammonium, Glutamate monoammonique",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E625",
+    "libelle": "Glutamate de magnésium, Diglutamate monomagnésique",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E626",
+    "libelle": "Acide guanylique, Guanosine 5'-monophosphate",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E627",
+    "libelle": "Guanylate disodique, Guanylate-5' de sodium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E628",
+    "libelle": "Guanylate de potassium, Guanylate 5'-potassique",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E629",
+    "libelle": "Guanylate de calcium, Guanylate 5'-calcique",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E630",
+    "libelle": "Acide inosinique, Inosine 5'-monophosphate",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E631",
+    "libelle": "Inosinate disodique, Inosinate de sodium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E632",
+    "libelle": "Inosinate dipotassique, Inosinate de potassium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E633",
+    "libelle": "Inosinate calcique, Inosinate de calcium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E634",
+    "libelle": "5'-Ribonucléotide calcique, Ribonucléotide de calcium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E635",
+    "libelle": "5'-Ribonucléotide disodique, Ribonucléotide de sodium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E636",
+    "libelle": "Maltol",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E637",
+    "libelle": "Ethylmaltol, Ethyl-maltol, Ethyle maltol",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E638",
+    "libelle": "Aspartate de sodium (L-)",
+    "danger": ""
+  },
+  {
+    "code": "E639",
+    "libelle": "Alanine (DL-)",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E640",
+    "libelle": "Glycine et son sel de sodium",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E641",
+    "libelle": "Leucine (L-)",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E642",
+    "libelle": "Hydrochlorure de lysine",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E650",
+    "libelle": "Acétate de zinc",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E900",
+    "libelle": "Diméthylpolysiloxane, Polydiméthylsiloxane, Diméthicone, PDMS",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E900b",
+    "libelle": "Méthylphénylpolysiloxane, Polyphénylméthylsiloxane, Phényl triméthicone",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E901",
+    "libelle": "Cire d'abeille, Cire blanche, Cire jaune",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E902",
+    "libelle": "Cire de candelilla",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E903",
+    "libelle": "Cire de carnauba",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E904",
+    "libelle": "Résine de Shellac, Shellac, Gomme-laque blanchie",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E905",
+    "libelle": "Cire microcristalline, Cire de pétrole, Paraffine synthétique",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E905a",
+    "libelle": "Huile minérale de qualité alimentaire",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E905b",
+    "libelle": "Vaseline, Gelée de pétrole, Pétrolatum",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E905c",
+    "libelle": "Cire microcristalline, Cire de pétrole, Cire de paraffine",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E905d",
+    "libelle": "Huile minérale (viscosité élevée)",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E905e",
+    "libelle": "Huile minérale (viscosité moyenne et faible, catégorie I)",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E905f",
+    "libelle": "Huile minérale (viscosité moyenne et faible, catégorie II)",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E905g",
+    "libelle": "Huile minérale (viscosité moyenne et faible, catégorie III)",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E906",
+    "libelle": "Gomme benjoin, Résine benjoin, Gomme benzoïque",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E907",
+    "libelle": "Poly-1-décène hydrogéné, Polydécène hydrogéné",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E908",
+    "libelle": "Cire de son de riz",
+    "danger": ""
+  },
+  {
+    "code": "E909",
+    "libelle": "Cire de blanc de baleine",
+    "danger": ""
+  },
+  {
+    "code": "E910",
+    "libelle": "Esters de cires",
+    "danger": ""
+  },
+  {
+    "code": "E911",
+    "libelle": "Esters méthyliques d'acides gras, EMAG",
+    "danger": ""
+  },
+  {
+    "code": "E912",
+    "libelle": "Esters de l'acide montanique",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E913",
+    "libelle": "Lanoline",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E914",
+    "libelle": "Cire de polyéthylène oxydée",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E915",
+    "libelle": "Esters de colophane",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E916",
+    "libelle": "Iodate de calcium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E917",
+    "libelle": "Iodate de potassium",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E918",
+    "libelle": "Oxydes d'azote",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E919",
+    "libelle": "Chlorure de nitrosyle",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E920",
+    "libelle": "Cystéine (L-) et ses chlorhydrates (sels de sodium et de potassium)",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E921",
+    "libelle": "Cystine (L-) et ses chlorhydrates (sels de sodium et de potassium)",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E922",
+    "libelle": "Persulfate de potassium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E923",
+    "libelle": "Persulfate d'ammonium",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E924a",
+    "libelle": "Bromate de potassium",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E924b",
+    "libelle": "Bromate de calcium",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E925",
+    "libelle": "Chlore, Chlorine",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E926",
+    "libelle": "Peroxyde de chlore, Dioxyde de chlore, Oxyde de chlore",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E927a",
+    "libelle": "Azodicarbonamide, Azoformamide",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E927b",
+    "libelle": "Urée, Carbamide",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E928",
+    "libelle": "Peroxyde de benzoyle",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E929",
+    "libelle": "Peroxyde d'acétone",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E930",
+    "libelle": "Peroxyde de calcium",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E940",
+    "libelle": "Dichlorodifluorométhane",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E941",
+    "libelle": "Azote",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E942",
+    "libelle": "Protoxyde d'azote, Oxyde nitreux",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E943a",
+    "libelle": "Butane",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E943b",
+    "libelle": "Isobutane",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E944",
+    "libelle": "Propane",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E945",
+    "libelle": "Chloropentafluoroéthane",
+    "danger": ""
+  },
+  {
+    "code": "E946",
+    "libelle": "Octafluorocyclobutane",
+    "danger": ""
+  },
+  {
+    "code": "E948",
+    "libelle": "Oxygène",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E949",
+    "libelle": "Hydrogène",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E950",
+    "libelle": "Acésulfame potassium, Acésulfame-K",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E951",
+    "libelle": "Aspartame",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E952",
+    "libelle": "Cyclamates",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E953",
+    "libelle": "Isomalt (isomaltulose hydrogéné)",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E954",
+    "libelle": "Saccharine et ses sels de Na, Ca et K",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E955",
+    "libelle": "Sucralose (trichlorogalactosucrose)",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E956",
+    "libelle": "Alitame",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E957",
+    "libelle": "Thaumatine",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E958",
+    "libelle": "Glycyrrhizine, Acide glycyrrhizique, Liquorice, Licorice",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E959",
+    "libelle": "Dihydrochalcone de néohespéridine, Néohespéridine DC, NHDC",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E960",
+    "libelle": "Glycosides de stéviol",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E961",
+    "libelle": "Néotame",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E962",
+    "libelle": "Aspartame acésulfame (sel d')",
+    "danger": "Très toxique"
+  },
+  {
+    "code": "E963",
+    "libelle": "Tagatose (D-)",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E964",
+    "libelle": "Sirop de polyglycitol",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E965",
+    "libelle": "Maltitol, Sirop de maltitol",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E966",
+    "libelle": "Lactitol",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E967",
+    "libelle": "Xylitol",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E968",
+    "libelle": "Erythritol",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E999",
+    "libelle": "Extraits de quillaia (type I et II)",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E1000",
+    "libelle": "Acide cholique",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E1001",
+    "libelle": "Choline (sels et esters de-)",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E1100",
+    "libelle": "Amylases",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E1101",
+    "libelle": "Protéases (Protéase, Papaïne, Bromélaïne, Ficine)",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E1102",
+    "libelle": "Glucose oxydase",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E1103",
+    "libelle": "Invertases",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E1104",
+    "libelle": "Lipases",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E1105",
+    "libelle": "Lysozyme, Lysozyme chlorhydrate",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E1200",
+    "libelle": "Polydextroses A et N, Polydextroses modifiés",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E1201",
+    "libelle": "Polyvinylpyrrolidone, PVP",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E1202",
+    "libelle": "Polyvinylpolypyrrolidone, PVPP",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E1203",
+    "libelle": "Alcool polyvinylique",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E1204",
+    "libelle": "Pullulan, Pullulane",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E1205",
+    "libelle": "Copolymère méthacrylate basique",
+    "danger": ""
+  },
+  {
+    "code": "E1400",
+    "libelle": "Amidon modifié, Amidon torréfié, Amidon, Dextrines",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E1401",
+    "libelle": "Amidon modifié, Amidon traité aux acides",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E1402",
+    "libelle": "Amidon modifié, Amidon traité aux alcalis",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E1403",
+    "libelle": "Amidon modifié, Amidon blanchi",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E1404",
+    "libelle": "Amidon modifié, Amidon oxydé",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E1405",
+    "libelle": "Amidon modifié, Amidon traité aux enzymes, Amidon",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E1410",
+    "libelle": "Amidon modifié, Phosphate d'amidon",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E1411",
+    "libelle": "Amidon modifié, Glycérol de diamidon, Diamidon glycériné",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E1412",
+    "libelle": "Amidon modifié, Phosphate de diamidon",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E1413",
+    "libelle": "Amidon modifié, Phosphate de diamidon phosphaté",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E1414",
+    "libelle": "Amidon modifié, Phosphate de diamidon acétylé",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E1420",
+    "libelle": "Amidon modifié, Amidon acétylé, Acétate d'amidon",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E1421",
+    "libelle": "Amidon modifié, Amidon acétylé à l'acétate de vinyle",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E1422",
+    "libelle": "Amidon modifié, Adipate de diamidon acétyle",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E1423",
+    "libelle": "Amidon modifié, Glycérol de diamidon acétylé",
+    "danger": ""
+  },
+  {
+    "code": "E1430",
+    "libelle": "Amidon modifié, Diamidon glycériné",
+    "danger": ""
+  },
+  {
+    "code": "E1440",
+    "libelle": "Amidon modifié, Amidon hydroxypropylique",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E1441",
+    "libelle": "Amidon modifié, Glycérine de diamidon hydroxypropylique",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E1442",
+    "libelle": "Amidon modifié, Phosphate de diamidon hydroxypropylique",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E1443",
+    "libelle": "Amidon modifié, Glycérol de diamidon hydroxypropylique",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E1450",
+    "libelle": "Amidon modifié, Succinate octénylique d'amidon sodique",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E1451",
+    "libelle": "Amidon modifié, Amidon oxydé acétylé",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E1452",
+    "libelle": "Amidon modifié, Succinate octénylique d'amidon aluminique",
+    "danger": "Toxique"
+  },
+  {
+    "code": "E1503",
+    "libelle": "Huile de ricin",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E1505",
+    "libelle": "Citrate de triéthyle, Citrate triéthylique, Triéthyl-citrate",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E1510",
+    "libelle": "Ethanol, Alcool éthylique",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E1517",
+    "libelle": "Diacétine, Diacétate de glycérol, Diacétate de glycéryle",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E1518",
+    "libelle": "Triacétine, Triacétate de glycérol, Triacétate de glycéryle",
+    "danger": "Pas/peu toxique"
+  },
+  {
+    "code": "E1519",
+    "libelle": "Alcool de benzyle, Alcool benzylique, Phénylméthanol",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E1520",
+    "libelle": "Propylène glycol, Propane diol-1,2",
+    "danger": "Modérément toxique"
+  },
+  {
+    "code": "E1521",
+    "libelle": "Polyéthylène glycol, PEG, Macrogol",
+    "danger": "Douteux"
+  },
+  {
+    "code": "E1522",
+    "libelle": "Lignosulfonate de calcium (40-65)",
+    "danger": "Douteux"
+  }
+]
